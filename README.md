@@ -20,7 +20,7 @@
 ## D modul - REST API Frontend
 - [D modul feladatleírás](https://github.com/skillsithu/ws2024-s17-hu-r3/blob/main/Module_D_REST_API_Frontend/WS2024_HU_TP17_MODUL-D_EN_1_2.pdf)
 ## További fordulók
-- [WorldSkills Lyon 2024 Web Technology nemzeti válogató - 1. forduló](https://github.com/skillsit-hu/ws2024-s17-hu-r1)
+- [WorldSkills Lyon 2024 Web Technology nemzeti válogató - 1. forduló](https://github.com/skillsithu/ws2024-s17-hu-r1)
 - [WorldSkills Lyon 2024 Web Technology nemzeti válogató - 2. forduló](https://github.com/skillsithu/ws2024-s17-hu-r2)
 
 
