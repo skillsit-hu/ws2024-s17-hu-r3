@@ -18,6 +18,9 @@
 - [Module C Description](https://github.com/skillsithu/ws2024-s17-hu-r3/blob/main/Module_C_Admin_and_REST_API_Backend/WS2024_HU_TP17_MODUL-C_EN_1_2.pdf)
 ## Module D - REST API Frontend
 - [Module D Description](https://github.com/skillsithu/ws2024-s17-hu-r3/blob/main/Module_D_REST_API_Frontend/WS2024_HU_TP17_MODUL-D_EN_1_2.pdf)
+## Other Rounds
+- [WorldSkills Lyon 2024 Web Technology Hungarian National Competition - Round 1](https://github.com/skillsit-hu/ws2024-s17-hu-r1)
+- [WorldSkills Lyon 2024 Web Technology Hungarian National Competition - Round 2](https://github.com/skillsithu/ws2024-s17-hu-r2)
 
 
  
